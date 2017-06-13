@@ -1,0 +1,54 @@
+@font-face {
+  src: url("../fonts/Century Gothic Bold.ttf");
+  font-family: "Century Gothic Bold"; }
+
+@font-face {
+  src: url("../fonts/Century Gothic Regular.ttf");
+  font-family: "Century Gothic Regular"; }
+
+h1 {
+  font-size: 54px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  color: #00bbd7; }
+
+h2 {
+  font-size: 72px;
+  font-weight: normal;
+  font-family: "Century Gothic Bold";
+  text-transform: uppercase; }
+  h2.left-fix {
+    position: relative;
+    left: -5px; }
+
+a {
+  color: #181818;
+  text-decoration: none; }
+
+ul, ol {
+  margin: 0; }
+
+li {
+  list-style: none; }
+
+.text-left {
+  text-align: left; }
+
+.text-right {
+  text-align: center; }
+
+.text-right {
+  text-align: right; }
+
+.text-italic {
+  font-style: italic; }
+
+.text-bold {
+  font-weight: bold; }
+
+.color-yellow {
+  color: #ffbb28; }
+
+.color-blue {
+  color: #0ea3ba; }

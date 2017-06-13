@@ -1,0 +1,68 @@
+@import ../variables
+
+.button
+	cursor: pointer
+	transition: .3s
+
+.button, .input, .textarea
+	display: block
+	outline: none
+	border: none
+	background: $c2
+	font-family: $ff
+
+
+.input, .textarea, .file
+	margin-bottom: 9px
+	font-size: 19px
+	border-radius: 2px
+	padding: 12px 19px
+	margin-left: auto
+	margin-right: auto
+	width: 320px
+	font-family: "Century Gothic Regular"
+	font-weight: normal
+	box-sizing
+
+.textarea
+	height: 160px
+	resize: none
+
+::placeholder
+	color: #242424
+
+
+.button_yellow, .button_blue
+	border-radius: 2px
+	padding-left: 33px
+	padding: 15px 33px
+
+.button_yellow
+	background: #FEBA43
+	border: 2px solid #FEBA43
+	&:hover
+		color: #FEBA43
+		background: transparent
+
+
+.button_blue
+	color: #1B93A7
+	border: 2px solid #1B93A7
+	background: transparent
+	&:hover
+		color: $c2
+		background: #1B93A7
+
+
+.button-big
+	font-size: 32px
+	font-weight: bold
+	color: $c2
+	text-transform: lowercase
+	background: #0EA3BA
+	border: 2px solid #0EA3BA
+	border-radius: 2px
+	padding: 24px 70px
+	&:hover
+		color: #0EA3BA
+		background: transparent

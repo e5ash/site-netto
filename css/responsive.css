@@ -1,0 +1,373 @@
+@media screen and (max-width: 1775px) {
+  #brief .bg {
+    background: url("../img/elements/mac-2.png") 110% top no-repeat, url("../img/elements/paper-1.png") -140px 700px no-repeat; } }
+
+@media screen and (max-width: 1650px) {
+  #presentation-project {
+    background: url("../img/elements/keyboard-1.png") 110% top no-repeat; } }
+
+@media screen and (max-width: 1600px) {
+  #corp-traning {
+    background: none; }
+  #contacts .bg {
+    background: url("../img/elements/paper-2.png") 1% top no-repeat; }
+  #contacts .container {
+    background: url("../img/elements/iphone.png") right top no-repeat, url("../img/elements/pencil-4.png") 70px 680px no-repeat; } }
+
+@media screen and (max-width: 1555px) {
+  #brief .bg {
+    background: url("../img/elements/mac-2.png") 120% top no-repeat, url("../img/elements/paper-1.png") -190px 700px no-repeat; } }
+
+@media screen and (max-width: 1480px) {
+  #presentation-project {
+    background: url("../img/elements/keyboard-1.png") 120% top no-repeat; } }
+
+@media screen and (max-width: 1420px) {
+  #brief .bg {
+    background: url("../img/elements/mac-2.png") 130% top no-repeat, url("../img/elements/paper-1.png") -250px 700px no-repeat; } }
+
+@media screen and (max-width: 1330px) {
+  #presentation-project {
+    background: url("../img/elements/keyboard-1.png") 130% top no-repeat; }
+  #contacts .bg {
+    background: url("../img/elements/paper-2.png") 900px top no-repeat; }
+  #contacts .container {
+    background: none; } }
+
+@media screen and (max-width: 1420px) {
+  #brief .bg {
+    background: url("../img/elements/paper-1.png") -250px 700px no-repeat; } }
+
+@media screen and (max-width: 1220px) {
+  body {
+    font-size: 16px; }
+  h2 {
+    font-size: 50px;
+    text-align: center; }
+    h2 br {
+      display: none; }
+  header .banner {
+    padding-bottom: 150px; }
+  #about {
+    padding-top: 20px; }
+    #about:after {
+      display: none; }
+    #about .bg {
+      background: none;
+      margin-top: 0; }
+    #about .container {
+      padding-top: 0px; }
+    #about .middle {
+      width: 100%;
+      margin-left: 0;
+      padding-top: 30px;
+      margin-bottom: 100px; }
+    #about .bottom blockquote {
+      padding-bottom: 50px; }
+    #about .bottom .info {
+      margin-bottom: 100px; }
+  #portfolio {
+    background: #F8C74B;
+    padding-bottom: 40px; }
+    #portfolio h2 {
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align: center;
+      margin-bottom: 0; }
+  .slick-slide img {
+    width: 100%; }
+  #presentation-project {
+    background: none;
+    padding-bottom: 20px; }
+    #presentation-project .container {
+      padding-top: 0;
+      background: none; }
+    #presentation-project h2 {
+      padding-top: 40px; }
+    #presentation-project .bottom .title {
+      margin-top: 0;
+      margin-bottom: 20px; }
+  #presentation-thematic {
+    margin-top: 0; }
+    #presentation-thematic h2 {
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-left: 0; }
+      #presentation-thematic h2 br {
+        display: none; }
+    #presentation-thematic .container {
+      background: none; }
+    #presentation-thematic .pencil, #presentation-thematic .paper-pancil {
+      display: none; }
+    #presentation-thematic .top {
+      padding-top: 40px; }
+    #presentation-thematic .col {
+      float: none;
+      width: 100%; }
+    #presentation-thematic .info, #presentation-thematic .quote {
+      width: 100%;
+      margin: 0 auto 20px; }
+    #presentation-thematic .quote br {
+      display: none; }
+    #presentation-thematic .quote .text {
+      font-size: 20px;
+      padding-bottom: 0; }
+    #presentation-thematic .bottom {
+      padding-top: 40px; }
+  #tel {
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 20px; }
+    #tel .text-big {
+      font-size: 24px; }
+    #tel .button {
+      margin-top: 10px; }
+  #brief {
+    background: #F8C74B; }
+    #brief .bg {
+      background: none;
+      padding-bottom: 30px; }
+    #brief .container {
+      padding-top: 30px;
+      font-size: 20px; }
+      #brief .container .text-big {
+        font-size: 20px; }
+      #brief .container p {
+        margin-bottom: 10px; }
+      #brief .container br {
+        display: none; }
+  #corp-traning {
+    background: none; }
+    #corp-traning .container {
+      background: none; }
+    #corp-traning h2 {
+      padding-top: 20px;
+      padding-bottom: 20px; }
+    #corp-traning .icons .col {
+      width: 50%;
+      margin: 0;
+      height: 100px;
+      padding-left: 10%; }
+    #corp-traning .notebook {
+      display: none; }
+  #contacts {
+    background: #F8C74B;
+    padding-bottom: 40px;
+    margin-top: 40px; }
+    #contacts .bg {
+      background: none; }
+    #contacts .container {
+      padding-top: 20px; }
+    #contacts h3 {
+      margin-top: 10px;
+      margin-bottom: 30px; }
+  .info {
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box; }
+    .info p br {
+      display: none; }
+  .button-big {
+    padding: 10px 20px;
+    font-size: 20px;
+    text-transform: uppercase; }
+  .quote .text {
+    padding-top: 40px !important;
+    font-size: 20px !important; }
+  .quote .author {
+    padding-bottom: 30px !important; } }
+
+@media screen and (max-width: 1075px) {
+  #presentation-project .info, #presentation-project .quote {
+    width: 100%;
+    margin: 0 auto 20px; }
+  #presentation-project .quote {
+    padding-left: 0;
+    margin-top: 30px;
+    margin-bottom: 0; }
+    #presentation-project .quote .text {
+      padding-bottom: 5px; }
+      #presentation-project .quote .text br {
+        display: none; }
+  #presentation-project .col {
+    width: 100%; }
+  #corp-traning .bottom {
+    padding-bottom: 40px; }
+    #corp-traning .bottom .col {
+      width: 100%; }
+    #corp-traning .bottom .quote, #corp-traning .bottom .info, #corp-traning .bottom .text {
+      margin-right: 0;
+      width: 100% !important;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+    #corp-traning .bottom br {
+      display: none; }
+    #corp-traning .bottom .quote .text {
+      padding-top: 40px;
+      padding-bottom: 0; }
+    #corp-traning .bottom .quote .author {
+      padding: 30px; }
+    #corp-traning .bottom .quote {
+      margin-bottom: 30px; }
+    #corp-traning .bottom .title {
+      margin-top: 20px; }
+      #corp-traning .bottom .title .text-big, #corp-traning .bottom .title p {
+        font-size: 20px; }
+      #corp-traning .bottom .title .text-big a {
+        border-bottom: 2px solid #1EA1B7; }
+        #corp-traning .bottom .title .text-big a:hover {
+          border-bottom: 2px solid #F8C74B; }
+  #sub {
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 10px; }
+    #sub .description {
+      font-size: 16px !important; }
+    #sub h2 {
+      margin-bottom: 10px; }
+    #sub .col {
+      float: none;
+      width: 100%; }
+  .sub {
+    max-width: 430px;
+    width: auto;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px; }
+  #tariffs {
+    padding-bottom: 0; }
+    #tariffs h2 {
+      padding-top: 20px;
+      padding-bottom: 20px; }
+    #tariffs .col {
+      float: none;
+      width: 100%; }
+    #tariffs .description {
+      margin-top: 0; } }
+
+@media screen and (max-width: 970px) {
+  header .panel .nav li {
+    margin-right: 15px; }
+  #presentation-project .bottom .title .text-big {
+    font-size: 24px; }
+  #presentation-project .bottom br {
+    display: none; }
+  #tel br {
+    display: none; }
+  #presentation-thematic .bottom .title {
+    font-size: 16px; }
+    #presentation-thematic .bottom .title br {
+      display: none; }
+  #corp-traning .icons {
+    margin-bottom: 20px; }
+  #corp-traning .borders {
+    text-align: center;
+    margin-bottom: 40px; }
+    #corp-traning .borders .col {
+      display: inline-block;
+      float: none;
+      width: 45%;
+      margin-bottom: 20px;
+      vertical-align: top;
+      margin-left: 2%;
+      margin-right: 2%; }
+    #corp-traning .borders .border {
+      width: 100%; }
+  footer {
+    display: none; } }
+
+@media screen and (max-width: 855px) {
+  header .panel {
+    padding-top: 20px; }
+    header .panel .logo {
+      text-align: center;
+      float: none;
+      margin-left: auto;
+      margin-right: auto; }
+    header .panel .nav {
+      float: none;
+      text-align: center;
+      padding-top: 50px; }
+      header .panel .nav li {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        font-size: 18px; }
+        header .panel .nav li a {
+          border: none !important; }
+      header .panel .nav br {
+        display: none; }
+  header .banner {
+    padding-bottom: 50px; }
+    header .banner h1 {
+      font-size: 40px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      line-height: 1.2; }
+    header .banner p {
+      font-size: 20px; } }
+
+@media screen and (max-width: 855px) {
+  header .banner p br {
+    display: none; }
+  header .banner .buttons .button {
+    padding-top: 20px;
+    display: block;
+    margin: 0 auto 20px; } }
+
+@media screen and (max-width: 730px) {
+  #corp-traning .icons {
+    text-align: center; }
+    #corp-traning .icons .col {
+      float: none;
+      width: 260px;
+      padding-left: 0;
+      height: auto;
+      margin-bottom: 30px;
+      margin-left: auto !important;
+      margin-right: auto !important; }
+    #corp-traning .icons .icon, #corp-traning .icons p {
+      float: none; } }
+
+@media screen and (max-width: 700px) {
+  h2 {
+    font-size: 32px; } }
+
+@media screen and (max-width: 540px) {
+  #corp-traning .borders .col {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto; }
+  .sub {
+    padding: 20px 10px; }
+    .sub .button {
+      line-height: 40px;
+      width: 100%; }
+  #brief .container .button {
+    width: 100%; }
+  #contacts .input, #contacts .textarea, #contacts .file {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box; }
+  #contacts br {
+    display: none; } }
+
+@media screen and (max-width: 460px) {
+  #portfolio .slick-prev {
+    left: 2px; }
+  #portfolio .slick-next {
+    right: 0; } }
+
+@media screen and (max-width: 360px) {
+  header .panel .logo img {
+    width: 100%; }
+  header .panel .nav {
+    padding-top: 20px; }
+  header .banner h1 {
+    font-size: 32px;
+    padding-top: 20px;
+    padding-bottom: 20px; }
+  header .banner .buttons {
+    padding-top: 20px; } }
